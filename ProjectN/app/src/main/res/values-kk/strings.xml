@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">нөмірді санау</string>
+    <string name="behind">Ұзақ емес</string>
+    <string name="ahead">Ұшу</string>
+    <string name="hit">Нүктесіне</string>
+    <string name="input_value">Мән енгізіңіз</string>
+    <string name="play_more">Көбірек ойнаңыз</string>
+    <string name="try_to_guess">Нөмірді анықтаңыз (1 &#8211; 100)</string>
+    <string name="error">Жарамсыз енгізу(1 &#8211; 100)</string>
+</resources>
